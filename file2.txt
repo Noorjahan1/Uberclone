@@ -1,4 +1,4 @@
-print("Hello");
-print("Hello");
-print("Hello");
-print("Hello");
+print1("Hello");
+print2("Hello");
+print3("Hello");
+print4("Hello");
