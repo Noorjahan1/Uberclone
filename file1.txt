@@ -1,4 +1,0 @@
-print ("hello world");
-print1 ("hello world");
-print2 ("hello world");
-
